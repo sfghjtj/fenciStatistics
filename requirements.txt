@@ -1,0 +1,10 @@
+--index https://pypi.python.org/simple/
+jieba >= 0.39
+nltk >= 3.2.5
+numpy >= 1.13.3
+pandas >= 0.21.0
+xlrd >= 1.1.0
+flask >= 0.12.2
+jsonpath-rw >= 1.4.0
+Flask-RESTful >= 0.3.6
+-e .

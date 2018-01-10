@@ -1,0 +1,16 @@
+*target*
+*.settings*
+*bin*
+*.idea*
+*.project
+*.classpath
+*.DS_Store*
+*.iml
+*.ipr
+*.iws
+*.pyc*
+*.log*
+*__pycache__*
+*.egg-info/*
+*dist/*
+*build/*
